@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "vidhya",
+    "age": 35,
+    "city": "thanjavur"
+  },
+  {
+    "id": 2,
+    "name": "kannanvidhya",
+    "age": 38,
+    "city": "trichy"
+  },
+  {
+    "id": 4,
+    "name": "Athiyan",
+    "age": "2",
+    "city": "trichy"
+  },
+  {
+    "id": 5,
+    "name": "Mahil",
+    "age": "15",
+    "city": "Pudur"
+  },
+  {
+    "id": 5,
+    "name": "myvi",
+    "age": "3",
+    "city": "gsadf"
+  }
+]
