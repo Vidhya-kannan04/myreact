@@ -30,7 +30,7 @@ function App() {
         if (error.response.status === 404) {
           alert("Users not found!");
         } else if (error.response.status === 500) {
-          alert("A server error occurred. Please try again later.");
+          alert("A Server Error Occurred. Please try again later.");
         } else {
           alert("An error occurred. Please try again later.");
         }
